@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import './privatelabel.css';
+import "./privateLabel.css"
 
 
 function PrivateLabel() {
