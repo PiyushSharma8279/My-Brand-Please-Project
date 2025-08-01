@@ -1,0 +1,23 @@
+.fontStyle{
+    
+    font-family: 'Courgette', cursive;
+    color: rgb(255, 80, 139);
+    text-decoration: none;
+    white-space: nowrap;
+    width: 732px;
+    height: 47px;
+    min-height: 0px;
+    min-width: 0px;
+    max-height: none;
+    max-width: none;
+    text-align: inherit;
+    line-height: 45px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 30px;
+    filter: none;
+    transform-origin: 50% 50%;
+}
+.private{
+    font-family: 'ubuntu', sans-serif;
+}
